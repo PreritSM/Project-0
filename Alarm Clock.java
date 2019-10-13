@@ -36,7 +36,7 @@ return cTime;
 }
 public short getCDay()
 {
-return cDay;
+return cDay;//welcome to new era//
 }
 public short getCDate()
 {

@@ -18,6 +18,7 @@ public void setATime(short at)
 {
 aTime=at;
 }
+//set function to set alarm state
 public void setAlarmState(boolean as)
 {
 alarmState=as;

@@ -70,7 +70,7 @@ public void setCMonth(short cm)
 {
 cMonth=cm;
 }
-public void setCYear(short cy)
+public void setCYear(short cy) //Noice
 {
     cYear=cy;
 }

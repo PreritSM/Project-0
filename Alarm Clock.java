@@ -19,6 +19,7 @@ public void setATime(short at)
 aTime=at;
 }
 //set function to set alarm state
+// this function works fine
 public void setAlarmState(boolean as)
 {
 alarmState=as;
@@ -28,7 +29,6 @@ public void setAlarmSound(boolean asnd)
 alarmSound=asnd;
 }
 }
-//set alarm to default state, default_state = "Kya hi"
 class Clock
 { private short cTime,cDay,cDate,cMonth,cYear;
 private boolean clockState;
